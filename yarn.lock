@@ -5506,9 +5506,9 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-"react-native-twilio-video-webrtc@https://github.com/blackuy/react-native-twilio-video-webrtc":
-  version "1.0.2-1"
-  resolved "https://github.com/blackuy/react-native-twilio-video-webrtc#8ef225ffa827dfc946abf73b936d2f05a013c34b"
+"react-native-twilio-video-webrtc@https://github.com/blackuy/react-native-twilio-video-webrtc#release/v2.0":
+  version "1.0.2"
+  resolved "https://github.com/blackuy/react-native-twilio-video-webrtc#e9e4a5a77259461e0f690148c9f23a0e4b12c5c5"
   dependencies:
     prop-types "^15.5.10"
 
